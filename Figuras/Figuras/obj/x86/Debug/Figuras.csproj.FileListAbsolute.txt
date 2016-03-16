@@ -1,0 +1,4 @@
+E:\7mo - Rodriguez\ProjectsVS\Figuras\Figuras\bin\Debug\Figuras.exe
+E:\7mo - Rodriguez\ProjectsVS\Figuras\Figuras\bin\Debug\Figuras.pdb
+E:\7mo - Rodriguez\ProjectsVS\Figuras\Figuras\obj\x86\Debug\Figuras.exe
+E:\7mo - Rodriguez\ProjectsVS\Figuras\Figuras\obj\x86\Debug\Figuras.pdb
